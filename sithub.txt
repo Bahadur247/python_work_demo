@@ -21,4 +21,12 @@ write 1. git config --global user.name "github_account_name"
 14. To make a new folder or repo in out Code editor system directly we can write the command "makedir <-Folder_name->".
 15. To connect the repo. or new folder with Git we use to make folder gitrepo first.
 16. To make folder a git repo. we first initiallise it with the command "git init"
-17. 
+17. when we initialise a git repo. then we need to add origin first to initiallise origin.
+18. To initiallise origin use command, git remote add origin <-link->.
+19. To verify remote use command, git remote -v.
+20. To check branch use command, git branch
+21. To rename a branch we use command, git branch -m new_name
+22. To make a new branch we use the command, git checkout -b new_branch_name
+23. To change branch we use the command, git checkout branchname_where_to go
+24. To delete a branch we use hte command, git branch -d branch_name
+25. 
