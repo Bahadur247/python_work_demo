@@ -1,4 +1,4 @@
-# import the libraries and real the data.
+# import the libraries and clear the data.
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
